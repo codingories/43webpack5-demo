@@ -1,3 +1,5 @@
 import wyz from './wuyanzu.js'
-console.log(wyz)
+import gx from './guanxi.js'
 
+console.log(wyz)
+console.log(gx)

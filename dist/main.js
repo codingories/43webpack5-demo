@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("吴彦祖")})();
+(()=>{"use strict";const o={name:"吴彦祖",sayName(){console.log(this.name)}},e={name:"冠希",sayName(){console.log(this.name)}};console.log(o),console.log(e)})();
