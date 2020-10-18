@@ -1,6 +1,6 @@
 import wyz from './wuyanzu.js'
-import gx from './guanxi.js'
+import {pictures} from './guanxi.js'
 
 console.log(wyz.name)
-// Tree Shaking
-// console.log(gx.name)
+// 部分Tree Shaking
+console.log(pictures)
