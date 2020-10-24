@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("吴彦祖"),console.log("我拍的照片")})();
