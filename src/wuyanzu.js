@@ -1,1 +1,3 @@
-export default {name:'吴彦祖', sayName(){console.log(this.name)}}
+import {sayName} from "./sayName"
+
+export default {name:'吴彦祖', sayName}
